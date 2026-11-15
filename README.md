@@ -1,4 +1,4 @@
-# Umna-Haya
+# umnahaya
 Computer Science Student | Python | Software Development | Exploring AI &amp; Automation
 # Hi, I'm Umna Haya!
 
